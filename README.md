@@ -1,2 +1,2 @@
 # Favorite-Players-Props
-Created with CodeSandbox
+Created with CodeSandbox - Pingucoder
